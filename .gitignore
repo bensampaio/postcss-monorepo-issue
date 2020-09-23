@@ -1,4 +1,5 @@
 # Exclude generated content
+.idea
 build
 
 # Exclude vendors
