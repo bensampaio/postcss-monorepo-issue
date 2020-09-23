@@ -1,0 +1,15 @@
+{
+  "name": "@test/app",
+  "private": true,
+  "dependencies": {
+    "@test/config": "^0.0.0",
+    "@test/lib": "^0.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "build:dev": "NODE_ENV=development webpack --watch",
+    "build:prd": "NODE_ENV=production webpack"
+  },
+  "version": "0.0.0"
+}

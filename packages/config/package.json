@@ -1,0 +1,19 @@
+{
+  "name": "@test/config",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "autoprefixer": "^10.0.0",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.3.0",
+    "css-minimizer-webpack-plugin": "^1.1.4",
+    "mini-css-extract-plugin": "^0.11.2",
+    "postcss": "^8.0.8",
+    "postcss-loader": "^4.0.2",
+    "sass": "^1.26.11",
+    "sass-loader": "^10.0.2",
+    "terser-webpack-plugin": "^4.2.2",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}

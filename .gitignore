@@ -1,0 +1,9 @@
+# Exclude generated content
+build
+
+# Exclude vendors
+node_modules
+
+# Exclude debug files
+npm-debug.log
+yarn-error.log
